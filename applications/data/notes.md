@@ -33,4 +33,4 @@ For some reason values for 2006 and 2019 went missing and I added them in manual
 
 ### For merging different sources together
 
-Done in google sheets. 
+Done in google sheets, found in summaries
